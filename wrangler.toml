@@ -1,0 +1,6 @@
+name = "downloadeverything-proxy"
+main = "index.js"
+compatibility_date = "2024-09-23"
+
+# اختياري: إذا تريد ترفع عبر wrangler من جهازك
+# account_id = "ضع_هنا_معرف_حسابك"
